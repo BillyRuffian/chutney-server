@@ -1,0 +1,80 @@
+AvoidOutlineForSingleExample:
+    Enabled: true
+AvoidFullStop:
+    Enabled: true
+AvoidScripting:
+    Enabled: true
+AvoidSplatStepsInBackground:
+    Enabled: true
+AvoidSplatStepsInScenarios:
+    Enabled: true
+AvoidTypographersQuotes:
+    Enabled: true
+BackgroundDoesMoreThanSetup:
+    Enabled: true
+BackgroundRequiresMultipleScenarios:
+    Enabled: true
+BadScenarioName:
+    Enabled: true
+EmptyFeatureFile:
+    Enabled: true
+FileNameDiffersFeatureName:
+    Enabled: false
+GivensAfterBackground:
+    Enabled: true
+MissingExampleName:
+    Enabled: true
+MissingExampleTable:
+    Enabled: true
+MissingFeatureDescription:
+    Enabled: true
+MissingFeatureName:
+    Enabled: true
+MissingScenarioName:
+    Enabled: true
+MissingScenarioOutline:
+    Enabled: true
+MissingTestAction:
+    Enabled: true
+MissingVerification:
+    Enabled: true
+InconsistentQuoting:
+    Enabled: true
+InvalidFileName:
+    Enabled: false
+InvalidStepFlow:
+    Enabled: true
+RequiredTagsStartsWith:
+    Enabled: false
+SameTagDifferentCase:
+    Enabled: true
+SameTagForAllScenarios:
+    Enabled: true
+ScenarioNamesMatch:
+    Enabled: false
+TagUsedMultipleTimes:
+    Enabled: true
+TooClumsy:
+    Enabled: true
+TooManyDifferentTags:
+    Enabled: true
+    MaxCount: 3
+TooManySteps:
+    Enabled: true
+    MaxCount: 10
+TooManyTags:
+    Enabled: true
+    MaxCount: 3
+TooLongStep:
+    Enabled: true
+    MaxLength: 80
+UniqueScenarioNames:
+    Enabled: true
+UnknownVariable:
+    Enabled: true
+UnusedVariable:
+    Enabled: true
+UseBackground:
+    Enabled: true
+UseOutline:
+    Enabled: true
