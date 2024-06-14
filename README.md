@@ -6,9 +6,9 @@ Most of the default linting rules are enabled but the filename checking linters 
 
 ## Running the server
 
-You will need to have a Ruby 3.3.x environement.
-
 ### In a Ruby environment
+
+You will need to have a Ruby 3.3.x environement.
 
 Clone the repository and run `bundle install` to install the dependencies. Then run `bundle exec puma` to start the server.
 
