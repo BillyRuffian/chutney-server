@@ -24,6 +24,8 @@ class App < Roda
         rescue StandardError => e
           response.status = 500
           { error: 'Badly formatted gherkin' }.to_json
+        ensure
+          temp_file.delete
         end
       end
     end
